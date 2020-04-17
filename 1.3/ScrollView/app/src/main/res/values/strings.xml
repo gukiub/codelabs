@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="titulo_do_artigo">História das batatas vol.1</string>
+    <string name="subtitulo">A descoberta das batatas e suas peculiariadades</string>
+    <string name="artigo">A batata é um tubérculo pertencente à família das Solanaceae. Surgiu nos Andes e nas Ilhas Chilenas, foi levada para a Europa no século XVI e tornou-se base da alimentação, além de ser um dos vegetais mais utilizados nas Américas do Norte e do Sul,
+        principalmente por grandes redes de fast food. É rica em carboidratos, sais minerais, vitamina C e pequenas quantidades de vitaminas do complexo B.
+
+    A batata é originária do Peru, onde foi cultivada desde as eras imemoriais pelo povo Inca. Em razão do seu alto rendimento e sua grande capacidade de adaptação, o cultivo foi largamente espalhado pelo mundo.
+
+    A batata pode ser encontrada em uma grande variedade de cores, de cascas e de polpas.
+    É consumida frita, assada ou cozida, servida quente como acompanhamento à refeição principal, ou fria como acompanhamento para salada.
+
+    Quando mantida em local fresco, arejado e escuro, a batata conserva-se fora da geladeira por até duas semanas.
+
+        \n\n www.batatas.com \n\n
+
+    A batata pode ser plantada em uma grande variedade de climas. Os maiores produtores de batata no mundo são: Polônia, China, Estados Unidos, Alemanha e Índia.
+    Em pouco tempo, a batata ganharia a simpatia de largos grupos. Frederico o Grande, da Prússia, distribuiu um manual em 1740 que explicava como cultivá-la - e com ele, batatas-sementes para combater a inanição. Soldados austríacos que lutaram na Prússia durante a Guerra dos Sete Anos (1756-1763),
+        testemunhando como as batatas sustentavam a população local,
+        passaram a defender seu cultivo na volta para casa. Na Áustria, camponeses foram ameaçados com quarenta chicotadas caso se recusassem a plantá-las nos períodos de fome. O cientista francês Antoine Parmentier, que serviu como farmacêutico no exército de seu país durante a Guerra dos Sete Anos,
+        foi capturado pelos prussianos e passou três anos na prisão, obrigado a comer batatas todos os dias. Parmentier concluiu que elas eram um alimento nutritivo e tornou-se um combatente defensor de seu consumo em sua volta para a França, através da obra Examen chymique des pommes de terre.
+
+    A batata havia se tornado um capítulo a parte na história do mundo. Quando o economista Arthur Young viajou ao leste da Inglaterra, na década de 1760, testemunhou um mundo rural que em pouco tempo seria drasticamente modificado. Segundo suas estimativas,
+        a produção média anual de um acre de trigo, cevada e aveia na região, girava entre 580 e 680 quilos - um acre de batateira produzia mais de 11 mil quilos,
+        cerca de 18 vezes mais. Uma vez tão produtivas, o resultado das plantações de batata, em termos de calorias, se transformaria na duplicação da disponibilidade alimentar europeia.
+
+    </string>
+    <string name="adicionar_um_coment_rio">adicionar um comentário</string>
+
+</resources>

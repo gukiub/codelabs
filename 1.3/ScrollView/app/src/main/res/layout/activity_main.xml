@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/regular_padding">
+
+            <TextView
+                android:id="@+id/article_heading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:padding="@dimen/regular_padding"
+                android:text="@string/titulo_do_artigo"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/article_subheading"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/regular_padding"
+                    android:text="@string/subtitulo"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
+
+                <TextView
+                    android:id="@+id/article"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:autoLink="web"
+                    android:lineSpacingExtra="5dp"
+                    android:padding="@dimen/regular_padding"
+                    android:text="@string/artigo" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="90dp"
+                android:text="@string/adicionar_um_coment_rio" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
