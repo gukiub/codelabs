@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\gu_ki\\AndroidStudioProjects\\SimpleCalc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "C:\\Users\\gu_ki\\Desktop\\codelabs\\3.2\\SimpleCalc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gu_ki\\.gradle\\caches\\transforms-2\\files-2.1\\3be6e2b298f7ce6814fc7adf97858a54\\appcompat-v7-27.1.1\\res\\values-ca\\values-ca.xml",
