@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="http_google_com">http://google.com</string>
+    <string name="abrir_website">Abrir website</string>
+    <string name="s_o_paulo">São paulo</string>
+    <string name="abrir_localiza_o">Abrir localização</string>
+    <string name="um_texto_aleat_rio">Um texto aleatório</string>
+    <string name="compartilhar_esse_texto">Compartilhar esse texto</string>
+</resources>
