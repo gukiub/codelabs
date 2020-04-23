@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework 4.2</string>
+    <string name="chocolate">chocolate</string>
+    <string name="batata_cheaps">Batata cheaps</string>
+    <string name="amoras">amoras</string>
+    <string name="doce_de_leite">doce de leite</string>
+    <string name="ovo_de_p_scoa">ovo de páscoa</string>
+    <string name="show_toast">show toast</string>
+</resources>

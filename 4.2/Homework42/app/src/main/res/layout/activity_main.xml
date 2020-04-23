@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <CheckBox
+            android:id="@+id/check_choco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chocolate" />
+
+        <CheckBox
+            android:id="@+id/check_potato"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/batata_cheaps" />
+
+        <CheckBox
+            android:id="@+id/check_amora"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/amoras" />
+
+        <CheckBox
+            android:id="@+id/check_doce"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/doce_de_leite" />
+
+        <CheckBox
+            android:id="@+id/check_pascoa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ovo_de_p_scoa" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:onClick="showToast"
+        android:text="@string/show_toast"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+</androidx.constraintlayout.widget.ConstraintLayout>
