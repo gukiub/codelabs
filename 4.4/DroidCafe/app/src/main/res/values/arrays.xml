@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels_array">
+        <item>casa</item>
+        <item>trabalho</item>
+        <item>celular</item>
+        <item>outro</item>
+    </string-array>
+
+</resources>
